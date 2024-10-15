@@ -28,8 +28,12 @@ Now you can switch the tab/space/s
 [CTRL]-F7: switch to use three spaces
 [CTRL]-F8: switch to use four spaces
 
-System tray icons indicate the activity, for example:
-![Image]("resources/systray_example.jpg")
+System tray icons indicate the activity, for example
+
+![Image](resources/systray_example.jpg)
+
+if four spaces are used.
+
 ## integration within your own ahk2 script
 Given the ahk2 script `tab_234.ahk` is either visible on the PATH variable, or in a relative location of you own script, you can simply start `tab_234.ahk` from your own ahk2 script:
 ```
